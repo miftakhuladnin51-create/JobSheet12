@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Kafe19 {
+public class Kafe219 {
     public static void Menu(String namaPelanggan, boolean isMember) {
         System.out.println("Selamat datang, " + namaPelanggan + "!");
  
